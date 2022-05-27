@@ -53,7 +53,7 @@ The project is complete.
 
 #### Technologies
 
-Open source Graphics Libraries which includes the GL, GLU & GLUT library. Notice that, API,GL, GLU and GLUT 
+Open source Graphics Libraries which includes the GL, GLU & GLUT library.API,GL, GLU and GLUT 
 indicates the Application Programming Interface, core Graphics Library, Graphics Library 
 Utility and Graphics Library Utility Toolkit, respectively.
 
