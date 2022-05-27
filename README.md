@@ -23,10 +23,10 @@ Please let me know, if you have any comments and suggestion.
 #### Features
 When we press the ‘s’ button, the fan starts spinning with its blades.
 
-If we press of the ‘s’ button again the fan will stops.
+If we press  the ‘s’ button again the fan will stops.
 
 
-If we press and hold the ‘k’ button fans speed will increases. And if we release the ‘k’ button  fans speed will be normal again. 
+If we press and hold the ‘k’ button for a few seconds fans speed will increases. And if we release the ‘k’ button  fans speed will be normal again. 
 
 
 If we press the 'i' button the speed of fan will decreases.
