@@ -1,4 +1,4 @@
-######## Project Name: Rotating Fan
+Project Name: Rotating Fan
 
 ##### Table of contents
 
@@ -8,7 +8,7 @@
 * [Project status] 
 * [Setup]
 * [Contacts]
-8 [Technologies]
+* [Technologies]
 
 
 #### General info
@@ -35,9 +35,16 @@ https://user-images.githubusercontent.com/95553859/170753616-f79cfebf-cbb2-441d-
 
 
 
+
+
 ![Screenshot (35)](https://user-images.githubusercontent.com/95553859/170753810-d859dfa3-015c-4dd8-aaed-4a371809e02a.png)
 
+
+
+
 ![Screenshot (36)](https://user-images.githubusercontent.com/95553859/170753941-a423efc7-e533-4e74-ae95-61281c5ff562.png)
+
+
 
 
 #### Project Status
@@ -51,7 +58,13 @@ indicates the Application Programming Interface, core Graphics Library, Graphics
 Utility and Graphics Library Utility Toolkit, respectively.
 
 #### Contact
-Name: Md. Obayed Ullah 
+Name: Md. Obayed Ullah
+
+
 Email: obayed121@gmail.com
-Phone: 01912136154
+
+
+Phone: +8801912136154
+
+
 Facebook: https://web.facebook.com/obayed.alamin.9
